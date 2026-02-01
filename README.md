@@ -4,7 +4,7 @@ This program uses the RMT (Remote Control Transceiver) peripheral the send out p
 
 At the time I am writing this document, the peripheral has a bug that it will send the first pulse twice.
 
-![Double pulse issue](pulse.png "Doulbe pulse issue")
+![Double pulse issue](pulse.jpg "Doulbe pulse issue")
 
 At first I thought it was because of the hardware, but it seems like others have experienced the same thing as well.
 
